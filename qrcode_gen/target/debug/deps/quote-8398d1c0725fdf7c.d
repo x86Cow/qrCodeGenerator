@@ -1,0 +1,13 @@
+/workspaces/qrCodeGenerator/qrcode_gen/target/debug/deps/quote-8398d1c0725fdf7c.rmeta: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/ext.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/format.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/ident_fragment.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/to_tokens.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/runtime.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/spanned.rs
+
+/workspaces/qrCodeGenerator/qrcode_gen/target/debug/deps/libquote-8398d1c0725fdf7c.rlib: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/ext.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/format.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/ident_fragment.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/to_tokens.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/runtime.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/spanned.rs
+
+/workspaces/qrCodeGenerator/qrcode_gen/target/debug/deps/quote-8398d1c0725fdf7c.d: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/ext.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/format.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/ident_fragment.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/to_tokens.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/runtime.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/spanned.rs
+
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/lib.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/ext.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/format.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/ident_fragment.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/to_tokens.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/runtime.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.27/src/spanned.rs:

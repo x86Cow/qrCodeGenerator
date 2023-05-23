@@ -1,0 +1,14 @@
+/workspaces/qrCodeGenerator/qrcode_gen/target/debug/deps/anstream-190a27654c13e870.rmeta: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/adapter/mod.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/adapter/strip.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/adapter/wincon.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/buffer.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/macros.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/auto.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/lockable.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/raw.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/strip.rs
+
+/workspaces/qrCodeGenerator/qrcode_gen/target/debug/deps/anstream-190a27654c13e870.d: /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/lib.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/adapter/mod.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/adapter/strip.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/adapter/wincon.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/buffer.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/macros.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/auto.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/lockable.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/raw.rs /usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/strip.rs
+
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/lib.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/adapter/mod.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/adapter/strip.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/adapter/wincon.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/buffer.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/macros.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/auto.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/lockable.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/raw.rs:
+/usr/local/cargo/registry/src/github.com-1ecc6299db9ec823/anstream-0.3.2/src/strip.rs:
