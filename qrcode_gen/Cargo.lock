@@ -342,12 +342,12 @@ checksum = "fc713c23eb7e1a5f18b84e72be88b82a617ee25783a524a38f0caa4c986b2d76"
 dependencies = [
  "html-escape",
  "image",
- "qrcodegen",
+ "qrcodegen 1.8.0",
 ]
 
 [[package]]
-name = "qrcode_gen"
-version = "0.1.0"
+name = "qrcodegen"
+version = "1.0.0"
 dependencies = [
  "clap",
  "qrcode-generator",
